@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import Link from 'next/link';
-import 'public/global.css';
+import './public/global.css';
 
 function CsDev({ Component, pageProps }) {
   return (
