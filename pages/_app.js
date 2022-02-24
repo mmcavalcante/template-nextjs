@@ -9,6 +9,8 @@ function CsDev({ Component, pageProps }) {
         <title>csolution.dev</title>
       </Head>
 
+      <img src="./assets/images/logo.png"></img>
+
       <header>CABECALHO</header>
       <Link href="/">
         <a>Home </a>
